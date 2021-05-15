@@ -27,7 +27,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white&labelColor=grey">
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white&labelColor=grey">
 
-  <img alt="Altium" src="https://img.shields.io/badge/Altium-A5915F?style=flat&logo=altium-designer&logoColor=white&labelColor=grey">
 </div>
 <br>
 
@@ -42,13 +41,22 @@
   <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white&labelColor=grey">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=grey">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=grey">
+  <img alt="Altium" src="https://img.shields.io/badge/Altium-A5915F?style=flat&logo=altium-designer&logoColor=white&labelColor=grey">
 </div>
 
 <br>
 <br>
-<a href="https://github.com/evanparizot">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanparizot&theme=dracula&show_icons=true" />
-</a>
-<a href="https://github.com/evanparizot/">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanparizot&theme=dracula&langs_count=8&layout=compact" />
-</a>
+<div name="Stats">
+  <a href="https://github.com/evanparizot">
+    <img src="https://github-readme-stats.vercel.app/api?username=evanparizot&theme=dracula&show_icons=true" />
+  </a>
+  <a href="https://github.com/evanparizot/">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanparizot&theme=dracula&langs_count=8&layout=compact" />
+  </a>
+</div>
+
+<div name="Pinned Repos">
+  <a href="https://github.com/evanparizot/catan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=evanparizot&theme=dracula&repo=catan" />
+  </a>
+</div>
