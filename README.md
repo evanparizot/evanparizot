@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/title.png"/>
-</div>
+</div> -->
 
 <div>
-  <br>
-  <br>
+  <!-- <br> -->
+  <!-- <br> -->
   <p>
       Hi there 🖖. My name is Evan Parizot. I do a myriad of things, including software development, electronics, and woodworking. I'm currently trying to learn things like Rust and embedded programming, as well develop my AWS chops a bit more. My interests tend to take me around a bit, so I enjoy taking a look at a variety of different things.
   </p>
